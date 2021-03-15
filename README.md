@@ -1,4 +1,4 @@
-# Personal-Site---HTML
+# Personal-Site
 A simple Personal Site using HTML and CSS
 
 ## Screenshot
